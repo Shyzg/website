@@ -12,6 +12,9 @@
         "web-vitals": "^2.1.4",
         "async": ">=2.6.4"
     },
+    "devDependencies": {
+        "async": ">=2.6.4"
+    },
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
