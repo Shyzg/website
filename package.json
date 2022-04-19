@@ -1,6 +1,6 @@
 {
     "name": "website",
-    "homepage": "https://shyzagonakamoto.dev",
+    "homepage": "https://shyzagonakamoto.github.io/website",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
